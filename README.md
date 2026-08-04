@@ -80,5 +80,4 @@ Issued: August 2026
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/rijans
-- 🌐 Website: https://YOUR_DOMAIN
 - 📧 Email: rijans [dot] x [@] gmail [dot] com
